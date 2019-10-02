@@ -19,21 +19,21 @@ Feel free to raise PRs to enrich this repo with more questions (Don't forget to 
 |8  | [How does virtual DOM works in React? Talk about React Fibre, the reconciliation algorithm of react.](#How-does-virtual-DOM-works-in-React-Talk-about-React-Fibre-the-reconciliation-algorithm-of-react) |
 |9  | [What is event loop and how does it work?](#What-is-event-loop-and-how-does-it-work) |
 |10  | [Difference between state and props](#Difference-between-state-and-props) |
-|11  | [Why we need key in react lists? What happens if we provide the index as the key ?](#Why-we-need-key-in-react-lists-What-happens-if-we-provide-the-index-as-the-key) |
+|11  | [Why we need key in react lists? What happens if we provide the index as the key ?](#Why-we-need-key-in-react-lists-What-happens-if-we-provide-the-index-as-the-key-) |
 |12  | [How to improve performance of a web app](#How-to-improve-performance-of-a-web-app) |
-|13  | [What are controlled and uncontrolled inputs in React ?](#What-are-controlled-and-uncontrolled-inputs-in-React) |
-|14  | [What is a closure? How can it be used ?](#What-is-a-closure-How-can-it-be-used) |
+|13  | [What are controlled and uncontrolled inputs in React ?](#What-are-controlled-and-uncontrolled-inputs-in-React-) |
+|14  | [What is a closure? How can it be used ?](#What-is-a-closure-How-can-it-be-used-) |
 |15  | [Why do we need redux? Why can't we just use a global state?](#Why-do-we-need-redux-Why-cant-we-just-use-a-global-state) |
 |16  | [Event Propogation and Event bubbling?](#Event-Propogation-and-Event-bubbling) |
 |17  | [Difference between debouncing and throttling?](#Difference-between-debouncing-and-throttling) |
-|18  | [Difference between call, apply and bind?](#Difference-between-call,-apply-and-bind) |
+|18  | [Difference between call, apply and bind?](#Difference-between-call-apply-and-bind) |
 |19  | [What is async and await. What does a async function return?](#What-is-async-and-await-What-does-a-async-function-return) |
 |20  | [What is a Higher Order Component ? Give example and explain the use cases where it should be used.](#What-is-a-Higher-Order-Component--Give-example-and-explain-the-use-cases-where-it-should-be-used) |
-|21  | [How to deep clone a object in javascript ?](#How-to-deep-clone-a-object-in-javascript) |
+|21  | [How to deep clone a object in javascript ?](#How-to-deep-clone-a-object-in-javascript-) |
 |22  | [Implement a singleton class in Javascript.](#Implement-a-singleton-class-in-Javascript) |
 |23  | [Lifecycle hooks of react with use of each hook?](#Lifecycle-hooks-of-react-with-use-of-each-hook) |
-|24  | [Does react component only update on state change or also on prop change ?](#Does-react-component-only-update-on-state-change-or-also-on-prop-change) |
-|25  | [How to start a new Angular project from cli ?](#How-to-start-a-new-Angular-project-from-cli) |
+|24  | [Does react component only update on state change or also on prop change ?](#Does-react-component-only-update-on-state-change-or-also-on-prop-change-) |
+|25  | [How to start a new Angular project from cli ?](#How-to-start-a-new-Angular-project-from-cli-) |
 
 
 1. ### What is CORS? How does it work in browsers? What is preflight request
